@@ -1,0 +1,16 @@
+# SnapLearn - Dependencies
+
+# Global hotkey listener
+keyboard
+
+# Screen capture
+Pillow
+
+# Google Gemini API SDK
+google-genai
+
+# PowerPoint creation
+python-pptx
+
+# Environment variable management (.env file)
+python-dotenv
